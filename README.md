@@ -53,7 +53,7 @@ You will need a C++ compiler and the Raylib library installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Mr314Aaka/Tetris.git](https://github.com/Mr314Aaka/Tetris.git)
+    git clone https://github.com/Mr314Aaka/Tetris.git
     cd Tetris
     ```
 2.  **Compile the code:** *(Example using g++ on Linux/macOS. Adjust your flags depending on your OS and Raylib installation path)*
