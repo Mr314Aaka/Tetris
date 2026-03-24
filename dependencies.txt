@@ -1,0 +1,30 @@
+Dependencies
+============
+ 
+1. Raylib (>= 4.0)
+   - Website:  https://www.raylib.com
+   - GitHub:   https://github.com/raysan5/raylib
+   - Install (Ubuntu/Debian): sudo apt install libraylib-dev
+   - Install (Arch):          sudo pacman -S raylib
+   - Install (macOS):         brew install raylib
+   - Install (Windows):       Download from https://github.com/raysan5/raylib/releases
+ 
+2. g++ / GCC (>= C++11)
+   - Install (Ubuntu/Debian): sudo apt install build-essential
+   - Install (Arch):          sudo pacman -S base-devel
+   - Install (macOS):         xcode-select --install
+   - Install (Windows):       Install MinGW from https://www.mingw-w64.org
+ 
+3. make
+   - Install (Ubuntu/Debian): sudo apt install make
+   - Install (Arch):          sudo pacman -S make
+   - Install (macOS):         Included with xcode-select
+   - Install (Windows):       Included with MinGW or use WSL
+ 
+Build
+=====
+   make
+ 
+Run
+===
+   ./physics_engine
