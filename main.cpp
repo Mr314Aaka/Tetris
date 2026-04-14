@@ -1,4 +1,7 @@
-#include <bits/stdc++.h>
+#include <vector>
+#include <map>
+#include <cstdlib>
+#include <ctime>
 #include "raylib.h"
 #if defined(PLATFORM_WEB)
     #include <emscripten/emscripten.h>
